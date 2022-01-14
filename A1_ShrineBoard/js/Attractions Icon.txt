@@ -1,0 +1,65 @@
+ <div class="row">
+            <div class="col-lg-12">
+                <h2 class="page-header">Attractions</h2>
+            </div>
+		     <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-empire fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Shri Kapal Mochan</h4>
+                        <p>Kapal Mochan is an ancient place of pilgrimage for both Hindu and Sikhs</p>
+                      <!--  <a href="#" class="btn btn-primary">Learn More</a>-->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-empire fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Shri Badri Narayan</h4>
+                        <p>This place is considered to be the ancient abode of Lord Shri Adibadri Narayan</p>
+                       <!-- <a href="#" class="btn btn-primary">Learn More</a>-->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-empire fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Shri Mantra Devi</h4>
+                        <p>Mantra Devi Temple in Yamunanagar, Haryana is dedicated to Goddess Lakshmi and is located on the Shivalik Mountain</p>
+                    <!--    <a href="#" class="btn btn-primary">Learn More</a>-->
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <span class="fa-stack fa-5x">
+                              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                              <i class="fa fa-empire fa-stack-1x fa-inverse"></i>
+                        </span>
+                    </div>
+                    <div class="panel-body">
+                        <h4>Shri Kedar Nath</h4>
+                        <p>This is another ancient temple just about 200 meter from adi badri temple</p>
+                       <!-- <a href="#" class="btn btn-primary">Learn More</a>-->
+                    </div>
+                </div>
+            </div>
+        </div>
